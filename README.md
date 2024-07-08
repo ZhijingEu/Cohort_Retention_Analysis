@@ -7,3 +7,8 @@ This repo is accompanied by a Medium blog article "Analyzing Customer Retention 
 The code is implemented with two datasets:
 1) The Sprocket Central Dataset is one year's worth of customer transaction records for a fictional company that makes bicycles and other associated products https://www.kaggle.com/datasets/archit9406/customer-transaction-dataset
 2) The Online Retail II Dataset which is online retail transaction data set of two years from the year 2009-2010 and 2010-2011 for a UK based e-commerce company https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+# Related Repositories 
+Consider checking out my other repositories too ! 
+a) https://github.com/ZhijingEu/RFM_Analysis_KMeans - This a simple RFM Analysis Using K Means Clustering On A Publicly Available Brazilian e Commerce Dataset on Kaggle
+b) https://github.com/ZhijingEu/Customer_Lifetime_Values_BTYD_Modelling_PyMCMarketing - This a simple Customer Lifetime Value analysis using Buy Till You Die Modelling With PyMC Marketing library https://www.pymc-marketing.io
