@@ -9,6 +9,6 @@ The code is implemented with two datasets:
 2) The Online Retail II Dataset which is online retail transaction data set of two years from the year 2009-2010 and 2010-2011 for a UK based e-commerce company https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 # Related Repositories 
-Consider checking out my other repositories too ! 
-a) https://github.com/ZhijingEu/RFM_Analysis_KMeans - This a simple RFM Analysis Using K Means Clustering On A Publicly Available Brazilian e Commerce Dataset on Kaggle
-b) https://github.com/ZhijingEu/Customer_Lifetime_Values_BTYD_Modelling_PyMCMarketing - This a simple Customer Lifetime Value analysis using Buy Till You Die Modelling With PyMC Marketing library https://www.pymc-marketing.io
+Consider checking out my other repositories too ! :
+1) https://github.com/ZhijingEu/RFM_Analysis_KMeans - This a simple RFM Analysis Using K Means Clustering On A Publicly Available Brazilian e Commerce Dataset on Kaggle
+2) https://github.com/ZhijingEu/Customer_Lifetime_Values_BTYD_Modelling_PyMCMarketing - This a simple Customer Lifetime Value analysis using Buy Till You Die Modelling With PyMC Marketing library https://www.pymc-marketing.io
