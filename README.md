@@ -4,7 +4,7 @@ This repo is a code demo that implements a custom Customer Retention Analysis cl
 This repo is accompanied by a Medium blog article "Analyzing Customer Retention Via Cohort Analysis" available at https://medium.com/p/1f381748e555
 
 # About The Datasets
-The code is implemented with two datasets:
+The code is implemented with three different datasets to demonstrate the ease at which analysis can be run once the data is cleansed and loaded:
 1) The Sprocket Central Dataset is one year's worth of customer transaction records for a fictional company that makes bicycles and other associated products https://www.kaggle.com/datasets/archit9406/customer-transaction-dataset
 2) The Online Retail II Dataset which is online retail transaction data set of two years from the year 2009-2010 and 2010-2011 for a UK based e-commerce company https://archive.ics.uci.edu/dataset/502/online+retail+ii
 3) Transaction Data which is another item purchased transactions dataset with a year's worth of data https://www.kaggle.com/datasets/vipin20/transaction-data
